@@ -8,7 +8,8 @@
 </head>
 <body>
 	<ul>
-		<li>브랜치 테스트</li>
+		<li>1.브랜치 테스트</li>
+		<li>2.여기는 우리집</li>
 	</ul>
 </body>
 </html>
