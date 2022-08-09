@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<ul>
-		<li>1.브랜치 테스트</li>
-		<li>2.여기는 우리집</li>
-		<li>여기는 새로운 브랜치에서 작업함..ㅋㅋ</li>
-	</ul>
+	<h2>새로운 브랜치에서 작업중..</h2>
 </body>
 </html>
