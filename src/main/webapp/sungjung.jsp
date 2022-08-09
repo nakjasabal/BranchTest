@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>나는 성중이다. </h2>
+	<li>작업끝</li>
 </body>
 </html>
